@@ -34,7 +34,7 @@ class Faculty(User):
 
 
 # Run
-s1 = Student("Rahul", "123")
+s1 = Student("chandu", "123")
 f1 = Faculty("Admin", "456")
 
 s1.login().greet().register()
